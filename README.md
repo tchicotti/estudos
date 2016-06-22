@@ -5,7 +5,11 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 ---
 
 ## Sumário
-[01 - HTML e CSS](#html-e-css)[01 - HTML e CSS](#html-e-css)
+[01 - HTML e CSS](#html-e-css)
+[02 - Javascript](#javascript)
+[03 - PHP](#php)
+[04 - Boas Práticas](#boas-praticas)
+[05 - Workflow](#workflow)
 
 ### HTML e CSS
 
@@ -42,9 +46,9 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 	* Mocha, Chai e Sinon
 * *7.* ES6 e programação funcional
 
-## Referências
+#### Referências
 
-### Parte 01
+#### Parte 01
 
 * [Entendendo Javascript escopo e a palavra chave this](http://www.abequar.net/posts/entendendo-javascript-escopo-e-a-palavra-chave-this)
 * [JavaScript: entendendo o this](http://tableless.com.br/javascript-entendendo-o-this/#.Ut2RwnlpRm0)
@@ -71,3 +75,8 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 * [Javascript - Criando um módulo Ajax com Promises - Parte 5](http://blog.da2k.com.br/2015/03/08/javascript-criando-um-modulo-ajax-com-promises-parte-5/)
 * [O que são promessas no JavaScript?](http://blog.taller.net.br/o-que-sao-promessas-javascript/)
 * [Javascript Namespaces and Modules](https://www.kenneth-truyers.net/2013/04/27/javascript-namespaces-and-modules/)
+
+
+### PHP
+### Boas Práticas
+### Workflow
