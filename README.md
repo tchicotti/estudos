@@ -5,11 +5,11 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 ---
 
 ## Sumário
-[01 - HTML e CSS](#html-e-css)
-[02 - Javascript](#javascript)
-[03 - PHP](#php)
-[04 - Boas Práticas](#boas-praticas)
-[05 - Workflow](#workflow)
+* [01 - HTML e CSS](#html-e-css)
+* [02 - Javascript](#javascript)
+* [03 - PHP](#php)
+* [04 - Boas Práticas](#boas-práticas)
+* [05 - Workflow](#workflow)
 
 ### HTML e CSS
 
