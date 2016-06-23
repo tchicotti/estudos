@@ -54,7 +54,7 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 	* jQuery (entender os módulos de manipulação do DOM, eventos, ajax e promises separadamente)
 	* Lodash
 * *3.* Modularização e *bundling*:
-	* modularização manual (o que você já faz ;P)
+	* modularização manual
 	* modularização assíncrona (AMD)
 	* modularização do Node.js (CommonJS)
 	* Require.js para AMD
