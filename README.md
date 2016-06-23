@@ -22,11 +22,19 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 	* [Dive into HTML5 - Bem explicado as diferenças e coisas novas](https://diveintohtml5.com.br/)
 	* [HTML e HTML5 - Qual a diferença ? O que muda?](http://www.htmlprogressivo.net/2014/02/HTML-HTML5-Qual-a-Diferenca-O-que-muda.html)
 	* [Principais mudanças na estruturação de uma página HTML5](http://www.linhadecodigo.com.br/artigo/3518/principais-mudancas-na-estruturacao-de-uma-pagina-com-html-5.aspx)
+	* [A Look into Proper HTML 5 Semantics](http://www.hongkiat.com/blog/html-5-semantics/)
+	* [Whats makes for a Semantic Class Name?](https://css-tricks.com/semantic-class-names/)
 * *2.* CSS 3
 	* [Introdução a CSS3](http://www.criarweb.com/artigos/introducao-a-css3.html)
 	* [11 regras CSS que todo desenvolvedor web deve saber](http://wpmidia.com.br/desenvolvimento-web/11-regras-css-todo-desenvolvedor-web-deve-saber/)
 	* [CSS Transition e CSS Animation](http://tableless.com.br/transition-e-animation/)
 	* [CSS3 Animation Keyframe](http://tableless.com.br/css3-animation-keyframe/)
+	* [OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/)
+* *3.* Extra
+	* [Leveling up in CSS](https://medium.freecodecamp.com/leveling-up-css-44b5045a2667#.vjrbwbvp2) -> _Este artigo poderia estar em ambos os casos, html5 e css3, mas decidi optar por colocar como extra para evitar repetir conteúdo e além do fato que para bom entendimento dele, ter um conhecimento prévio dos textos acima será de muita ajuda._
+	* [Do zero a herói front-end (parte 1)](http://imasters.com.br/front-end/do-zero-heroi-front-end-parte-01/?utm_source=iMasters&utm_campaign=b9f7ba5506-ds_2015_08_18&utm_medium=email&utm_term=0_c1528e6ab3-b9f7ba5506-360665793)
+	* [From Zero to Front-End Hero (part 1 - original version)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
+	* [From Zero to Front-End Hero (part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.ksbfdjpru)
 
 ---
 
@@ -97,7 +105,8 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 
 ### PHP
 #### Plano de estudos
-* *1. * Orientação a Objetos
+* *1.* [PHP do jeito certo](http://br.phptherightway.com/)
+* *2.* Orientação a Objetos
 	* [Introdução a PHP Orientada a objetos](http://www.kadunew.com/blog/php/introducao-php-orientado-a-objetos-objetos-e-classes)
 	* [PHP Orientado a Objetos¹](http://www.adianti.com.br/phpoo_mostra.pdf)
 	* [PHP Orientado a Objetos²](http://code.tutsplus.com/pt/tutorials/object-oriented-php-for-beginners--net-12762)
@@ -105,10 +114,26 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 	* [10 ferramentas e outras coisas que um programador PHP deve saber](https://www.webdevbr.com.br/10-ferramentas-e-outras-coisas-que-todo-desenvolvedor-php-deve-dominar)
 	* [Composer para iniciantes](http://tableless.com.br/composer-para-iniciantes/)
 	* [Gerenciando dependências com o Composer](http://blog.thiagobelem.net/gerenciando-dependencias-com-o-composer)
+* *3.* [Design Patterns em PHP](http://br.phptherightway.com/pages/Design-Patterns.html)
+
 ---
 
 ### Boas Práticas
+* *1.* Conceito KISS
+	* [K.I.S.S. - Keep It Simple, Stupid](https://pt.wikipedia.org/wiki/Keep_It_Simple)
+	* [K.I.S.S (M.I.S.E - Mantenha Isto Simples Estúpido)](https://tisimples.wordpress.com/2009/04/29/kiss-keep-it-simple-stupid-mantenha-isto-simples-estupido/)
+* *2.* Conceito DRY
+	* [D.R.Y. - Don't Repeat Yourself](https://pt.wikipedia.org/wiki/Don%27t_repeat_yourself)
+	* [D.R.Y. - O que é DRY](http://abap101.com/2009/05/28/o-que-e-ser-dry/)
+	* [O princípio do 'Não se repita'](https://www.profissionaisti.com.br/2014/06/o-principio-do-nao-se-repita-dry/)
+* *3.* Extra
+	* [Filosofias de Desenvolvimento](http://wbruno.com.br/php/boas-praticas-de-programacao-filosofias-de-desenvolvimento/)
 
 ---
 
 ### Workflow
+* *1.* Tasks Runners
+	* [GulpJS - Um gole de otimização no seu workflow](http://blog.da2k.com.br/2015/01/24/gulpjs-um-gole-de-otimizacao-no-seu-workflow/)
+	* [Gulp](http://desenvolvimentoparaweb.com/javascript/gulp/)
+	* [GruntJS](http://www.webcis.com.br/o-que-e-o-gruntjs-por-onde-comecar-como-usar-o-gruntjs.html)
+	* [A moderna caixa de ferramentas do desenvolvedor javascript](https://www.infoq.com/br/articles/modern-javascript-toolbox)
