@@ -11,7 +11,24 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 * [04 - Boas Práticas](#boas-práticas)
 * [05 - Workflow](#workflow)
 
+---
+
 ### HTML e CSS
+#### Plano de Estudos
+* *1.* HTML 5
+	* [O que é tableless¹](http://tableless.com.br/o-que-etableless/)
+	* [O que é tableless²](https://pt.wikipedia.org/wiki/Tableless)
+	* [O que é tableless³](https://www.oficinadanet.com.br/post/306-o_que_e_tableless_e_como_funciona_essa_metodologia39)
+	* [Dive into HTML5 - Bem explicado as diferenças e coisas novas](https://diveintohtml5.com.br/)
+	* [HTML e HTML5 - Qual a diferença ? O que muda?](http://www.htmlprogressivo.net/2014/02/HTML-HTML5-Qual-a-Diferenca-O-que-muda.html)
+	* [Principais mudanças na estruturação de uma página HTML5](http://www.linhadecodigo.com.br/artigo/3518/principais-mudancas-na-estruturacao-de-uma-pagina-com-html-5.aspx)
+* *2.* CSS 3
+	* [Introdução a CSS3](http://www.criarweb.com/artigos/introducao-a-css3.html)
+	* [11 regras CSS que todo desenvolvedor web deve saber](http://wpmidia.com.br/desenvolvimento-web/11-regras-css-todo-desenvolvedor-web-deve-saber/)
+	* [CSS Transition e CSS Animation](http://tableless.com.br/transition-e-animation/)
+	* [CSS3 Animation Keyframe](http://tableless.com.br/css3-animation-keyframe/)
+
+---
 
 ### Javascript
 #### Plano de estudos
@@ -76,7 +93,22 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 * [O que são promessas no JavaScript?](http://blog.taller.net.br/o-que-sao-promessas-javascript/)
 * [Javascript Namespaces and Modules](https://www.kenneth-truyers.net/2013/04/27/javascript-namespaces-and-modules/)
 
+---
 
 ### PHP
+#### Plano de estudos
+* *1. * Orientação a Objetos
+	* [Introdução a PHP Orientada a objetos](http://www.kadunew.com/blog/php/introducao-php-orientado-a-objetos-objetos-e-classes)
+	* [PHP Orientado a Objetos¹](http://www.adianti.com.br/phpoo_mostra.pdf)
+	* [PHP Orientado a Objetos²](http://code.tutsplus.com/pt/tutorials/object-oriented-php-for-beginners--net-12762)
+	* [5 coisas que um programador PHP deve saber](http://phpsp.org.br/5-coisas-que-um-programador-php-precisa/)
+	* [10 ferramentas e outras coisas que um programador PHP deve saber](https://www.webdevbr.com.br/10-ferramentas-e-outras-coisas-que-todo-desenvolvedor-php-deve-dominar)
+	* [Composer para iniciantes](http://tableless.com.br/composer-para-iniciantes/)
+	* [Gerenciando dependências com o Composer](http://blog.thiagobelem.net/gerenciando-dependencias-com-o-composer)
+---
+
 ### Boas Práticas
+
+---
+
 ### Workflow
