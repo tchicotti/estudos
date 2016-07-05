@@ -94,6 +94,7 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 * [Fluxo de execução assíncrono em JavaScript – Callbacks](http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-callbacks/)
 * [Fluxo de execução assíncrono em JavaScript – Promises](http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-promises/)
 * [Javascript - entendendo e criando suas próprias Promises](http://blog.da2k.com.br/2015/03/05/javascript-entendendo-e-criando-suas-proprias-promises/)
+* [Guia Promise](https://gist.github.com/wkrueger/573c4be8d5081ca6aee9d445fac3c668)
 * [Javascript - Criando um módulo Ajax com Promises - Parte 2](http://blog.da2k.com.br/2015/03/08/javascript-criando-um-modulo-ajax-com-promises-parte-2/)
 * [Javascript - Criando um módulo Ajax com Promises - Parte 3](http://blog.da2k.com.br/2015/03/08/javascript-criando-um-modulo-ajax-com-promises-parte-3/)
 * [Javascript - Criando um módulo Ajax com Promises - Parte 4](http://blog.da2k.com.br/2015/03/08/javascript-criando-um-modulo-ajax-com-promises-parte-4/)
