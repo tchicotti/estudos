@@ -138,3 +138,8 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 	* [Gulp](http://desenvolvimentoparaweb.com/javascript/gulp/)
 	* [GruntJS](http://www.webcis.com.br/o-que-e-o-gruntjs-por-onde-comecar-como-usar-o-gruntjs.html)
 	* [A moderna caixa de ferramentas do desenvolvedor javascript](https://www.infoq.com/br/articles/modern-javascript-toolbox)
+* *2.* Gerenciadores de Dependência 
+	* [Bower na prática](http://tableless.com.br/bower-na-pratica/)
+	* [Bower - Guia definitivo](http://www.carvalhoweb.com/articles/bower-guia-definitivo/)
+	* [Gerenciando dependências do seu front-end](http://www.vitorbritto.com.br/blog/gerenciando-dependencias-front-end-no-seu-projeto/)
+	* [O que fazer quando encontrar um arquivo do bower](http://webdesign.tutsplus.com/pt/tutorials/quick-tip-what-to-do-when-you-encounter-a-bower-file--cms-21162)
