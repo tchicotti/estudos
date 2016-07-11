@@ -1,6 +1,7 @@
 # Estudos 2016
 
 Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e conhecimentos básicos que devem ser adquiridos.
+_Esse conteúdo teve por base o [gist](https://gist.github.com/marcelgsantos/b263c6da077366edecc6f8168c0501bd) fornecido por [@marcelgsantos](https://github.com/marcelgsantos) para auxiliar nos estudos com javascript;
 
 ---
 
