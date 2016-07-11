@@ -35,6 +35,7 @@ Este repositório tem por objetivo, agregar tópicos relacionados a tecnologia e
 	* [Do zero a herói front-end (parte 1)](http://imasters.com.br/front-end/do-zero-heroi-front-end-parte-01/?utm_source=iMasters&utm_campaign=b9f7ba5506-ds_2015_08_18&utm_medium=email&utm_term=0_c1528e6ab3-b9f7ba5506-360665793)
 	* [From Zero to Front-End Hero (part 1 - original version)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
 	* [From Zero to Front-End Hero (part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.ksbfdjpru)
+	* [Um guia básico para WEB] (http://tableless.github.io/iniciantes/)
 
 ---
 
