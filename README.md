@@ -132,6 +132,9 @@ _Esse conteúdo teve por base o [gist](https://gist.github.com/marcelgsantos/b26
 	* [O princípio do 'Não se repita'](https://www.profissionaisti.com.br/2014/06/o-principio-do-nao-se-repita-dry/)
 * *3.* Extra
 	* [Filosofias de Desenvolvimento](http://wbruno.com.br/php/boas-praticas-de-programacao-filosofias-de-desenvolvimento/)
+* *4.* S.O.L.I.D
+	* [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+	* [Como o tal do SOLID pode melhorar seu projeto orientado a objetos](http://www.itexto.net/devkico/?p=1105)
 
 ---
 
@@ -146,3 +149,18 @@ _Esse conteúdo teve por base o [gist](https://gist.github.com/marcelgsantos/b26
 	* [Bower - Guia definitivo](http://www.carvalhoweb.com/articles/bower-guia-definitivo/)
 	* [Gerenciando dependências do seu front-end](http://www.vitorbritto.com.br/blog/gerenciando-dependencias-front-end-no-seu-projeto/)
 	* [O que fazer quando encontrar um arquivo do bower](http://webdesign.tutsplus.com/pt/tutorials/quick-tip-what-to-do-when-you-encounter-a-bower-file--cms-21162)
+*  *3.* Pré-processadores e Flow
+	* [LESS](http://lesscss.loopinfinito.com.br/)
+	* [Sass](http://sass-lang.com/)
+	* [Stylus](http://stylus-lang.com/)
+	* [Jade](http://jade-lang.com/)
+	* [LiveReload](http://livereload.com/)
+	* [Browsersync](https://www.browsersync.io/)
+*  *4.* Testes Unitários e Documentações
+	* [phpUnit](https://phpunit.de/)
+	* [UnitJS](http://unitjs.com/)
+	* [Jasmine](http://jasmine.github.io/2.4/introduction.html)
+	* [Mocha](https://mochajs.org/)
+	* ---
+	* [phpDocumentor](https://www.phpdoc.org/)
+	* [jsDoc](http://usejsdoc.org/about-getting-started.html)
