@@ -108,6 +108,7 @@ _Esse conteúdo teve por base o [gist](https://gist.github.com/marcelgsantos/b26
 #### Parte 07
  * [Entendendo programação funcional com javascript de uma vez](https://medium.com/@matheusml/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b#.un7ut8adl)
  * [O guia do ES6 - Tudo que você precisa saber](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f#.68gf9kw6h)
+ 
 ---
 
 ### PHP
